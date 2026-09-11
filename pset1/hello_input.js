@@ -1,1 +1,1 @@
-print(prompt());
+print(prompt("heyyy"));
